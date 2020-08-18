@@ -1,4 +1,523 @@
 {
+  "mealPlan": {
+    "monday": [
+      {
+        "id": "proTo41oiO",
+        "category": "starters",
+        "dishes": [
+          {
+            "id": "142ezefz",
+            "name": "Mozza sticks",
+            "ingredients": [
+              { "id": "c435lklklk", "name": "mozzarella" },
+              { "id": "c435lkl", "name": "bricks" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proTo41oi",
+        "category": "desserts",
+        "dishes": [
+          {
+            "id": "1323erdm42",
+            "name": "Apple pie",
+            "ingredients": [
+              { "id": "c45rettrop6X", "name": "apple" },
+              { "id": "c45r", "name": "milk" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proTo41o",
+        "category": "mainCourses",
+        "dishes": [
+          {
+            "id": "1323erzze42drsdsddf",
+            "name": "Veggie Salad",
+            "ingredients": [
+              { "id": "spdopsodpsodposd", "name": "laitues" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          },
+          {
+            "id": "1323erzzessdm42drsdsddf",
+            "name": "Carrot pie",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "oTo41oiO",
+        "category": "drinks",
+        "dishes": [
+          {
+            "id": "1323erzzessdm42d2323sqds",
+            "name": "Virgin Mojito",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "mint" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          },
+          {
+            "id": "1323erzzessdm42d232",
+            "name": "French sirup",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      }
+    ],
+    "tuesday": [
+      {
+        "id": "roTo41oiO",
+        "category": "starters",
+        "dishes": [
+          {
+            "id": "142sse",
+            "name": "Jamon de Parma",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "p41oiO",
+        "category": "desserts",
+        "dishes": [
+          {
+            "id": "1323erzzessdm42",
+            "name": "Banana Bread",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tropopopopopopo",
+        "category": "mainCourses",
+        "dishes": [
+          {
+            "id": "142dre",
+            "name": "French Blanquette",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          },
+          {
+            "id": "1323erzze42drsdsddf",
+            "name": "Veggie Salad",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proTo41ssddoiO",
+        "category": "drinks",
+        "dishes": [
+          {
+            "id": "1323erzzessdm42d232",
+            "name": "French sirup",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      }
+    ],
+    "wednesday": [
+      {
+        "id": "proTo41oizezezezO",
+        "category": "starters",
+        "dishes": [
+          {
+            "id": "vvvvvvvv",
+            "name": "Mozza sticks",
+            "ingredients": [
+              { "id": "c435lklklk", "name": "mozzarella" },
+              { "id": "c435lkl", "name": "bricks" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proTo41azazazazoiO",
+        "category": "desserts",
+        "dishes": [
+          {
+            "id": "1323erdm42",
+            "name": "Apple pie",
+            "ingredients": [
+              { "id": "c45rettrop6X", "name": "apple" },
+              { "id": "gggggg", "name": "milk" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proTo41tyrrturtuoiO",
+        "category": "mainCourses",
+        "dishes": [
+          {
+            "id": "1323erzze42drsdsddfvbbbb",
+            "name": "Veggie Salad",
+            "ingredients": [
+              { "id": "c45rettrop6X", "name": "apple" },
+              { "id": "gggggg", "name": "milk" }
+            ]
+          },
+          {
+            "id": "1323erzzessdm42drsdsddf",
+            "name": "Carrot pie",
+            "ingredients": [
+              { "id": "x", "name": "carrot" },
+              { "id": "c45crDDFF", "name": "eggs" },
+              { "id": "xcxcxcxcxcc", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proTonnnnnnn41oiO",
+        "category": "drinks",
+        "dishes": [
+          {
+            "id": "1323erzzessdm42d2323sqds",
+            "name": "Virgin Mojito",
+            "ingredients": [
+              { "id": "prouttaatata", "name": "mint" },
+              { "id": "sdsdsdsdsdsdsdsdsdvvv", "name": "sugar" },
+              { "id": "mmmomomommmomomomomomoa", "name": "ice" }
+            ]
+          },
+          {
+            "id": "1323erzzessdm42dxcxcxcxcxc232",
+            "name": "French sirup",
+            "ingredients": [
+              { "id": "c45rettcxcxcxcrosdp6X", "name": "carrot" },
+              { "id": "c45rxcxcxcxcxxcxcDDFF", "name": "eggs" },
+              { "id": "c45zzzzzzzzzrDD", "name": "cream" }
+            ]
+          }
+        ]
+      }
+    ],
+    "thursday": [
+      {
+        "id": "proTo41oolllkjjkjkiO",
+        "category": "starters",
+        "dishes": [
+          {
+            "id": "14sdsdsdsd2e",
+            "name": "Jamon de Parma",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proToghhjghjghjO",
+        "category": "desserts",
+        "dishes": [
+          {
+            "id": "1323erzzessdm42",
+            "name": "Banana Bread",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "prolmmmmmmmiO",
+        "category": "mainCourses",
+        "dishes": [
+          {
+            "id": "142dre",
+            "name": "French Blanquette",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          },
+          {
+            "id": "1323erzze42drsdsddf",
+            "name": "Veggie Salad",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proToryryry41oirytrytyO",
+        "category": "drinks",
+        "dishes": [
+          {
+            "id": "1323erzzessdm42d232",
+            "name": "French sirup",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      }
+    ],
+    "friday": [
+      {
+        "id": "protTo41otiO",
+        "category": "starters",
+        "dishes": [
+          {
+            "id": "aazeazeazeaze",
+            "name": "Jamon de Parma",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proTyo41oiyO",
+        "category": "desserts",
+        "dishes": [
+          {
+            "id": "1323erzzessdm42",
+            "name": "Banana Bread",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proTo4hhhh1hoiO",
+        "category": "mainCourses",
+        "dishes": [
+          {
+            "id": "142dre",
+            "name": "French Blanquette",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          },
+          {
+            "id": "1323erzze42drsdsddf",
+            "name": "Veggie Salad",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "procvbbcb41obvbciO",
+        "category": "drinks",
+        "dishes": [
+          {
+            "id": "1323erzzessdm42d232",
+            "name": "French sirup",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      }
+    ],
+    "saturday": [
+      {
+        "id": "proTvvvyydeo41oiO",
+        "category": "starters",
+        "dishes": [
+          {
+            "id": "142ebbbbbzez",
+            "name": "Mozza sticks",
+            "ingredients": [
+              { "id": "c435lklklk", "name": "mozzarella" },
+              { "id": "c435lkl", "name": "bricks" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proTtyrtyrortyr1oiO",
+        "category": "desserts",
+        "dishes": [
+          {
+            "id": "1323erdm42",
+            "name": "Apple pie",
+            "ingredients": [
+              { "id": "c45rettrop6X", "name": "apple" },
+              { "id": "c45r", "name": "milk" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proertetTo41oieteteO",
+        "category": "mainCourses",
+        "dishes": [
+          {
+            "id": "1323erzze42drsdsddf",
+            "name": "Veggie Salad",
+            "ingredients": [
+              { "id": "FDDPO2332ppopo", "name": "oil" },
+              { "id": "11212lklklklko", "name": "eggs" },
+              { "id": "caroiipopopsdosp", "name": "laitues" }
+            ]
+          },
+          {
+            "id": "1323erzzessdm42drsdsddf",
+            "name": "Carrot pie",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "proTo41eterteterteterteteroiO",
+        "category": "drinks",
+        "dishes": [
+          {
+            "id": "1323erzzessdm42d2323sqds",
+            "name": "Virgin Mojito",
+            "ingredients": [
+              { "id": "zeozpozpeoz", "name": "mint" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          },
+          {
+            "id": "1323erzzessdm42d232",
+            "name": "French sirup",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      }
+    ],
+    "sunday": [
+      {
+        "id": "etetetetetetetetet",
+        "category": "starters",
+        "dishes": [
+          {
+            "id": "14xcmlxmlxc2e",
+            "name": "Jamon de Parma",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ffgdfgdgdfgdgdg",
+        "category": "desserts",
+        "dishes": [
+          {
+            "id": "1323erzzessdm42",
+            "name": "Banana Bread",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ccvbcbcbcb",
+        "category": "mainCourses",
+        "dishes": [
+          {
+            "id": "142dre",
+            "name": "French Blanquette",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          },
+          {
+            "id": "1323erzze42drsdsddf",
+            "name": "Veggie Salad",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ntyyytutyu",
+        "category": "drinks",
+        "dishes": [
+          {
+            "id": "1323erzzessdm42d232",
+            "name": "French sirup",
+            "ingredients": [
+              { "id": "c45rettrosdp6X", "name": "carrot" },
+              { "id": "c45rDDFF", "name": "eggs" },
+              { "id": "c45rDD", "name": "cream" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "dishes": [
     {
       "id": "142df",
