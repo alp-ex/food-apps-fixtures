@@ -31,36 +31,6 @@
       ]
     },
     {
-      "id": 4,
-      "day": "tuesday",
-      "category": "starters",
-      "name": "Mozza sticks",
-      "ingredients": [
-        "mozzarella",
-        "bricks"
-      ]
-    },
-    {
-      "id": 5,
-      "day": "tuesday",
-      "category": "main courses",
-      "name": "Fish & chips",
-      "ingredients": [
-        "fish",
-        "chips"
-      ]
-    },
-    {
-      "id": 6,
-      "day": "tuesday",
-      "category": "desserts",
-      "name": "Banana bread",
-      "ingredients": [
-        "banana",
-        "bread"
-      ]
-    },
-    {
       "id": 7,
       "day": "wednesday",
       "category": "starters",
@@ -287,15 +257,15 @@
       "id": 30
     },
     {
-      "name": "Red salad",
+      "name": "melon de campagne",
       "category": "starters",
       "ingredients": [
-        "oil",
         "tomato",
-        "curry"
+        "eggs",
+        "oil"
       ],
-      "day": "monday",
-      "id": 31
+      "day": "tuesday",
+      "id": 32
     }
   ],
   "recipes": [
@@ -425,6 +395,16 @@
       ],
       "category": "desserts",
       "id": 13
+    },
+    {
+      "name": "melon de campagne",
+      "ingredients": [
+        "tomato",
+        "eggs",
+        "oil"
+      ],
+      "category": "starters",
+      "id": 14
     }
   ],
   "categories": [

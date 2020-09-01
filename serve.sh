@@ -8,4 +8,4 @@ if [ ! -d "node_modules" ]; then
 fi
 
 # Run server
-npx json-server db.json --routes routes.json
+npx json-server db.json 

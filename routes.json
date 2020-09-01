@@ -1,3 +1,0 @@
-{
-  "/mealPlan/:day": "/mealPlan?day=:day"
-}
