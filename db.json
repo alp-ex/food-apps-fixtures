@@ -1,36 +1,6 @@
 {
   "mealPlan": [
     {
-      "id": 1,
-      "day": "monday",
-      "category": "starters",
-      "name": "Mozza sticks",
-      "ingredients": [
-        "mozzarella",
-        "bricks"
-      ]
-    },
-    {
-      "id": 2,
-      "day": "monday",
-      "category": "main courses",
-      "name": "Fish & chips",
-      "ingredients": [
-        "fish",
-        "chips"
-      ]
-    },
-    {
-      "id": 3,
-      "day": "monday",
-      "category": "desserts",
-      "name": "Banana bread",
-      "ingredients": [
-        "banana",
-        "bread"
-      ]
-    },
-    {
       "id": 7,
       "day": "wednesday",
       "category": "starters",
@@ -181,27 +151,6 @@
       ]
     },
     {
-      "name": "Roasted chicken",
-      "category": "main courses",
-      "ingredients": [
-        "chicken",
-        "oil",
-        "curry"
-      ],
-      "day": "monday",
-      "id": 22
-    },
-    {
-      "name": "porridge",
-      "category": "desserts",
-      "ingredients": [
-        "cream",
-        "eggs"
-      ],
-      "day": "monday",
-      "id": 23
-    },
-    {
       "name": "Parisian omelette",
       "category": "main courses",
       "ingredients": [
@@ -224,17 +173,6 @@
       "id": 25
     },
     {
-      "name": "Carrot pie",
-      "category": "starters",
-      "ingredients": [
-        "carrot",
-        "bread",
-        "oil"
-      ],
-      "day": "monday",
-      "id": 28
-    },
-    {
       "name": "Veggie Salad",
       "category": "starters",
       "ingredients": [
@@ -246,17 +184,6 @@
       "id": 29
     },
     {
-      "name": "Parisian omelette",
-      "category": "main courses",
-      "ingredients": [
-        "eggs",
-        "mushrooms",
-        "curry"
-      ],
-      "day": "monday",
-      "id": 30
-    },
-    {
       "name": "melon de campagne",
       "category": "starters",
       "ingredients": [
@@ -266,6 +193,74 @@
       ],
       "day": "tuesday",
       "id": 32
+    },
+    {
+      "name": "Roasted chicken",
+      "category": "main courses",
+      "ingredients": [
+        "chicken",
+        "oil",
+        "curry"
+      ],
+      "day": "tuesday",
+      "id": 33
+    },
+    {
+      "name": "Roasted chicken",
+      "category": "main courses",
+      "ingredients": [
+        "chicken",
+        "oil",
+        "curry"
+      ],
+      "day": "thursday",
+      "id": 34
+    },
+    {
+      "name": "Roasted chicken",
+      "category": "main courses",
+      "ingredients": [
+        "chicken",
+        "oil",
+        "curry"
+      ],
+      "day": "monday",
+      "id": 35
+    },
+    {
+      "name": "Parisian omelette",
+      "category": "main courses",
+      "ingredients": [
+        "eggs",
+        "mushrooms",
+        "curry"
+      ],
+      "day": "monday",
+      "id": 36
+    },
+    {
+      "name": "poltropatre",
+      "category": "starters",
+      "ingredients": [
+        "mushroom",
+        "cilantro",
+        "tomato"
+      ],
+      "day": "monday",
+      "id": 37
+    },
+    {
+      "name": "brugnon noir",
+      "category": "desserts",
+      "ingredients": [
+        "cilantro",
+        "bread",
+        "rice",
+        "carrot",
+        "eggs"
+      ],
+      "day": "monday",
+      "id": 38
     }
   ],
   "recipes": [
@@ -405,6 +400,36 @@
       ],
       "category": "starters",
       "id": 14
+    },
+    {
+      "name": "sdqsdqsdqdqds",
+      "ingredients": [
+        "curry",
+        "rice"
+      ],
+      "category": "main courses",
+      "id": 15
+    },
+    {
+      "name": "ssqsdqsd",
+      "ingredients": [
+        "chicken",
+        "curry"
+      ],
+      "category": "main courses",
+      "id": 16
+    },
+    {
+      "name": "brugnon noir",
+      "ingredients": [
+        "cilantro",
+        "bread",
+        "rice",
+        "carrot",
+        "eggs"
+      ],
+      "category": "desserts",
+      "id": 17
     }
   ],
   "categories": [
