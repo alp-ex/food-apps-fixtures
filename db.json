@@ -2,265 +2,48 @@
   "mealPlan": [
     {
       "id": 7,
-      "day": "wednesday",
-      "category": "starters",
-      "name": "Mozza sticks",
-      "ingredients": [
-        "mozzarella",
-        "bricks"
-      ]
+      "recipesId": 12,
+      "day": "wednesday"
     },
     {
       "id": 8,
-      "day": "wednesday",
-      "category": "main courses",
-      "name": "Fish & chips",
-      "ingredients": [
-        "fish",
-        "chips"
-      ]
+      "recipesId": 1,
+      "day": "wednesday"
     },
     {
       "id": 9,
-      "day": "wednesday",
-      "category": "desserts",
-      "name": "Banana bread",
-      "ingredients": [
-        "banana",
-        "bread"
-      ]
+      "recipesId": 3,
+      "day": "wednesday"
     },
     {
       "id": 10,
-      "day": "thursday",
-      "category": "starters",
-      "name": "Mozza sticks",
-      "ingredients": [
-        "mozzarella",
-        "bricks"
-      ]
+      "recipesId": 9,
+      "day": "thursday"
     },
     {
       "id": 11,
-      "day": "thursday",
-      "category": "main courses",
-      "name": "Fish & chips",
-      "ingredients": [
-        "fish",
-        "chips"
-      ]
+      "recipesId": 2,
+      "day": "thursday"
     },
     {
       "id": 12,
-      "day": "thursday",
-      "category": "desserts",
-      "name": "Banana bread",
-      "ingredients": [
-        "banana",
-        "bread"
-      ]
+      "recipesId": 5,
+      "day": "thursday"
     },
     {
       "id": 13,
-      "day": "friday",
-      "category": "starters",
-      "name": "Mozza sticks",
-      "ingredients": [
-        "mozzarella",
-        "bricks"
-      ]
+      "recipesId": 9,
+      "day": "friday"
     },
     {
       "id": 14,
-      "day": "friday",
-      "category": "main courses",
-      "name": "Fish & chips",
-      "ingredients": [
-        "fish",
-        "chips"
-      ]
+      "recipesId": 4,
+      "day": "friday"
     },
     {
       "id": 15,
-      "day": "friday",
-      "category": "desserts",
-      "name": "Banana bread",
-      "ingredients": [
-        "banana",
-        "bread"
-      ]
-    },
-    {
-      "id": 16,
-      "day": "saturday",
-      "category": "starters",
-      "name": "Mozza sticks",
-      "ingredients": [
-        "mozzarella",
-        "bricks"
-      ]
-    },
-    {
-      "id": 17,
-      "day": "saturday",
-      "category": "main courses",
-      "name": "Fish & chips",
-      "ingredients": [
-        "fish",
-        "chips"
-      ]
-    },
-    {
-      "id": 18,
-      "day": "saturday",
-      "category": "desserts",
-      "name": "Banana bread",
-      "ingredients": [
-        "banana",
-        "bread"
-      ]
-    },
-    {
-      "id": 19,
-      "day": "sunday",
-      "category": "starters",
-      "name": "Mozza sticks",
-      "ingredients": [
-        "mozzarella",
-        "bricks"
-      ]
-    },
-    {
-      "id": 20,
-      "day": "sunday",
-      "category": "main courses",
-      "name": "Fish & chips",
-      "ingredients": [
-        "fish",
-        "chips"
-      ]
-    },
-    {
-      "id": 21,
-      "day": "sunday",
-      "category": "desserts",
-      "name": "Banana bread",
-      "ingredients": [
-        "banana",
-        "bread"
-      ]
-    },
-    {
-      "name": "Parisian omelette",
-      "category": "main courses",
-      "ingredients": [
-        "eggs",
-        "mushrooms",
-        "curry"
-      ],
-      "day": "thursday",
-      "id": 24
-    },
-    {
-      "name": "Banana Bread",
-      "category": "desserts",
-      "ingredients": [
-        "banana",
-        "bread",
-        "eggs"
-      ],
-      "day": "thursday",
-      "id": 25
-    },
-    {
-      "name": "Veggie Salad",
-      "category": "starters",
-      "ingredients": [
-        "oil",
-        "tomato",
-        "curry"
-      ],
-      "day": "monday",
-      "id": 29
-    },
-    {
-      "name": "melon de campagne",
-      "category": "starters",
-      "ingredients": [
-        "tomato",
-        "eggs",
-        "oil"
-      ],
-      "day": "tuesday",
-      "id": 32
-    },
-    {
-      "name": "Roasted chicken",
-      "category": "main courses",
-      "ingredients": [
-        "chicken",
-        "oil",
-        "curry"
-      ],
-      "day": "tuesday",
-      "id": 33
-    },
-    {
-      "name": "Roasted chicken",
-      "category": "main courses",
-      "ingredients": [
-        "chicken",
-        "oil",
-        "curry"
-      ],
-      "day": "thursday",
-      "id": 34
-    },
-    {
-      "name": "Roasted chicken",
-      "category": "main courses",
-      "ingredients": [
-        "chicken",
-        "oil",
-        "curry"
-      ],
-      "day": "monday",
-      "id": 35
-    },
-    {
-      "name": "Parisian omelette",
-      "category": "main courses",
-      "ingredients": [
-        "eggs",
-        "mushrooms",
-        "curry"
-      ],
-      "day": "monday",
-      "id": 36
-    },
-    {
-      "name": "poltropatre",
-      "category": "starters",
-      "ingredients": [
-        "mushroom",
-        "cilantro",
-        "tomato"
-      ],
-      "day": "monday",
-      "id": 37
-    },
-    {
-      "name": "brugnon noir",
-      "category": "desserts",
-      "ingredients": [
-        "cilantro",
-        "bread",
-        "rice",
-        "carrot",
-        "eggs"
-      ],
-      "day": "monday",
-      "id": 38
+      "recipesId": 14,
+      "day": "friday"
     }
   ],
   "recipes": [
