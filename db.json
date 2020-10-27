@@ -1,6 +1,36 @@
 {
   "mealPlan": [
     {
+      "id": 1,
+      "recipesId": 12,
+      "day": "monday"
+    },
+    {
+      "id": 2,
+      "recipesId": 1,
+      "day": "monday"
+    },
+    {
+      "id": 3,
+      "recipesId": 3,
+      "day": "monday"
+    },
+    {
+      "id": 4,
+      "recipesId": 12,
+      "day": "tuesday"
+    },
+    {
+      "id": 5,
+      "recipesId": 1,
+      "day": "tuesday"
+    },
+    {
+      "id": 6,
+      "recipesId": 3,
+      "day": "tuesday"
+    },
+    {
       "id": 7,
       "recipesId": 12,
       "day": "wednesday"
@@ -44,11 +74,41 @@
       "id": 15,
       "recipesId": 14,
       "day": "friday"
+    },
+    {
+      "id": 16,
+      "recipesId": 9,
+      "day": "saturday"
+    },
+    {
+      "id": 17,
+      "recipesId": 4,
+      "day": "saturday"
+    },
+    {
+      "id": 18,
+      "recipesId": 14,
+      "day": "saturday"
+    },
+    {
+      "id": 19,
+      "recipesId": 9,
+      "day": "sunday"
+    },
+    {
+      "id": 20,
+      "recipesId": 4,
+      "day": "sunday"
+    },
+    {
+      "id": 21,
+      "recipesId": 14,
+      "day": "sunday"
     }
   ],
   "recipes": [
     {
-      "id": 1,
+      "id": 1, 
       "name": "Roasted chicken",
       "ingredients": [
         "chicken",
