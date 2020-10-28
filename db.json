@@ -1,108 +1,108 @@
 {
-  "plannedRecipes": [
+  "plannedRecipe": [
     {
       "id": 1,
-      "recipesId": 12,
+      "recipeId": 12,
       "weekday": 1
     },
     {
       "id": 2,
-      "recipesId": 1,
+      "recipeId": 1,
       "weekday": 1
     },
     {
       "id": 3,
-      "recipesId": 3,
+      "recipeId": 3,
       "weekday": 1
     },
     {
       "id": 4,
-      "recipesId": 12,
+      "recipeId": 12,
       "weekday": 2
     },
     {
       "id": 5,
-      "recipesId": 1,
+      "recipeId": 1,
       "weekday": 2
     },
     {
       "id": 6,
-      "recipesId": 3,
+      "recipeId": 3,
       "weekday": 2
     },
     {
       "id": 7,
-      "recipesId": 12,
+      "recipeId": 12,
       "weekday": 3
     },
     {
       "id": 8,
-      "recipesId": 1,
+      "recipeId": 1,
       "weekday": 3
     },
     {
       "id": 9,
-      "recipesId": 3,
+      "recipeId": 3,
       "weekday": 3
     },
     {
       "id": 10,
-      "recipesId": 9,
+      "recipeId": 9,
       "weekday": 4
     },
     {
       "id": 11,
-      "recipesId": 2,
+      "recipeId": 2,
       "weekday": 4
     },
     {
       "id": 12,
-      "recipesId": 5,
+      "recipeId": 5,
       "weekday": 4
     },
     {
       "id": 13,
-      "recipesId": 9,
+      "recipeId": 9,
       "weekday": 5
     },
     {
       "id": 14,
-      "recipesId": 4,
+      "recipeId": 4,
       "weekday": 5
     },
     {
       "id": 15,
-      "recipesId": 14,
+      "recipeId": 14,
       "weekday": 5
     },
     {
       "id": 16,
-      "recipesId": 9,
+      "recipeId": 9,
       "weekday": 6
     },
     {
       "id": 17,
-      "recipesId": 4,
+      "recipeId": 4,
       "weekday": 6
     },
     {
       "id": 18,
-      "recipesId": 14,
+      "recipeId": 14,
       "weekday": 6
     },
     {
       "id": 19,
-      "recipesId": 9,
+      "recipeId": 9,
       "weekday": 0
     },
     {
       "id": 20,
-      "recipesId": 4,
+      "recipeId": 4,
       "weekday": 0
     },
     {
       "id": 21,
-      "recipesId": 14,
+      "recipeId": 14,
       "weekday": 0
     }
   ],
@@ -193,210 +193,210 @@
       "categoryId": 1
     }
   ],
-  "recipe_ingredient": [
+  "recipeIngredient": [
     {
       "id": 1,
-      "recipesId": 17,
+      "recipeId": 17,
       "ingredientId": 16
     },
     {
       "id": 2,
-      "recipesId": 17,
+      "recipeId": 17,
       "ingredientId": 15
     },
     {
       "id": 3,
-      "recipesId": 16,
+      "recipeId": 16,
       "ingredientId": 14
     },
     {
       "id": 4,
-      "recipesId": 16,
+      "recipeId": 16,
       "ingredientId": 13
     },
     {
       "id": 5,
-      "recipesId": 15,
+      "recipeId": 15,
       "ingredientId": 12
     },
     {
       "id": 6,
-      "recipesId": 15,
+      "recipeId": 15,
       "ingredientId": 11
     },
     {
       "id": 7,
-      "recipesId": 14,
+      "recipeId": 14,
       "ingredientId": 10
     },
     {
       "id": 8,
-      "recipesId": 14,
+      "recipeId": 14,
       "ingredientId": 9
     },
     {
       "id": 9,
-      "recipesId": 14,
+      "recipeId": 14,
       "ingredientId": 8
     },
     {
       "id": 10,
-      "recipesId": 13,
+      "recipeId": 13,
       "ingredientId": 7
     },
     {
       "id": 11,
-      "recipesId": 13,
+      "recipeId": 13,
       "ingredientId": 6
     },
     {
       "id": 12,
-      "recipesId": 12,
+      "recipeId": 12,
       "ingredientId": 5
     },
     {
       "id": 13,
-      "recipesId": 11,
+      "recipeId": 11,
       "ingredientId": 4
     },
     {
       "id": 14,
-      "recipesId": 11,
+      "recipeId": 11,
       "ingredientId": 3
     },
     {
       "id": 15,
-      "recipesId": 11,
+      "recipeId": 11,
       "ingredientId": 2
     },
     {
       "id": 16,
-      "recipesId": 10,
+      "recipeId": 10,
       "ingredientId": 1
     },
     {
       "id": 17,
-      "recipesId": 10,
+      "recipeId": 10,
       "ingredientId": 2
     },
     {
       "id": 18,
-      "recipesId": 9,
+      "recipeId": 9,
       "ingredientId": 14
     },
     {
       "id": 19,
-      "recipesId": 9,
+      "recipeId": 9,
       "ingredientId": 16
     },
     {
       "id": 20,
-      "recipesId": 9,
+      "recipeId": 9,
       "ingredientId": 13
     },
     {
       "id": 21,
-      "recipesId": 9,
+      "recipeId": 9,
       "ingredientId": 8
     },
     {
       "id": 22,
-      "recipesId": 8,
+      "recipeId": 8,
       "ingredientId": 16
     },
     {
       "id": 22,
-      "recipesId": 8,
+      "recipeId": 8,
       "ingredientId": 12
     },
     {
       "id": 23,
-      "recipesId": 7,
+      "recipeId": 7,
       "ingredientId": 1
     },
     {
       "id": 24,
-      "recipesId": 7,
+      "recipeId": 7,
       "ingredientId": 7
     },
     {
       "id": 25,
-      "recipesId": 6,
+      "recipeId": 6,
       "ingredientId": 15
     },
     {
       "id": 26,
-      "recipesId": 5,
+      "recipeId": 5,
       "ingredientId": 12
     },
     {
       "id": 27,
-      "recipesId": 5,
+      "recipeId": 5,
       "ingredientId": 9
     },
     {
       "id": 28,
-      "recipesId": 4,
+      "recipeId": 4,
       "ingredientId": 3
     },
     {
       "id": 29,
-      "recipesId": 4,
+      "recipeId": 4,
       "ingredientId": 6
     },
     {
       "id": 30,
-      "recipesId": 3,
+      "recipeId": 3,
       "ingredientId": 4
     },
     {
       "id": 31,
-      "recipesId": 3,
+      "recipeId": 3,
       "ingredientId": 2
     },
     {
       "id": 32,
-      "recipesId": 3,
+      "recipeId": 3,
       "ingredientId": 12
     },
     {
       "id": 33,
-      "recipesId": 2,
+      "recipeId": 2,
       "ingredientId": 1
     },
     {
       "id": 34,
-      "recipesId": 2,
+      "recipeId": 2,
       "ingredientId": 6
     },
     {
       "id": 35,
-      "recipesId": 2,
+      "recipeId": 2,
       "ingredientId": 4
     },
     {
       "id": 36,
-      "recipesId": 2,
+      "recipeId": 2,
       "ingredientId": 9
     },
     {
       "id": 37,
-      "recipesId": 1,
+      "recipeId": 1,
       "ingredientId": 10
     },
     {
       "id": 38,
-      "recipesId": 1,
+      "recipeId": 1,
       "ingredientId": 9
     },
     {
       "id": 39,
-      "recipesId": 1,
+      "recipeId": 1,
       "ingredientId": 15
     },
     {
       "id": 40,
-      "recipesId": 1,
+      "recipeId": 1,
       "ingredientId": 16
     }
   ],
