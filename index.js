@@ -10,7 +10,7 @@ module.exports = () => {
     data.mealPlan.push({
       id: i,
       recipesId: random.number({ min: 0, max: LIMIT }),
-      weekday: random.number({ max: 6 }),
+      weekday: random.number({ min: 0, max: 6 }),
     });
   }
 
