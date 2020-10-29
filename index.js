@@ -9,8 +9,8 @@ module.exports = () => {
   for (let i = 0; i < LIMIT; i++) {
     data.plannedRecipe.push({
       id: i,
-      recipeId: random({ max: LIMIT }),
-      weekday: random({ max: 6 }),
+      recipeId: random.number({ max: LIMIT }),
+      weekday: random.number({ max: 6 }),
     });
   }
 
