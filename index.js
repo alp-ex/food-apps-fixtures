@@ -1,5 +1,4 @@
-const { fake } = require("faker");
-const faker = require("faker");
+const { random } = require("faker");
 
 const LIMIT = 1000;
 
@@ -10,8 +9,8 @@ module.exports = () => {
   for (let i = 0; i < LIMIT; i++) {
     data.plannedRecipe.push({
       id: i,
-      recipeId: faker.random({ max: LIMIT }),
-      weekday: faker.random({ max: 6 }),
+      recipeId: random({ max: LIMIT }),
+      weekday: random({ max: 6 }),
     });
   }
 
@@ -25,10 +24,10 @@ module.exports = () => {
   for (let i = 0; i < LIMIT; i++) {
     data.recipe.push({
       id: i,
-      name: faker.random.word(),
-      category: faker.random.arrayElement(categories),
-      ingredients: faker.random
-        .words(faker.random.number({ min: 2, max: 10 }))
+      name: random.word(),
+      category: random.arrayElement(categories),
+      ingredients: random
+        .words(random.number({ min: 2, max: 10 }))
         // https://github.com/Marak/faker.js/blob/master/lib/random.js
         .split(" "),
     });
