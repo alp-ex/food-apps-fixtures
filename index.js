@@ -6,11 +6,11 @@ module.exports = () => {
   const data = { mealPlan: [], recipes: [], categories: [] };
   const categories = ["desserts", "starters", "main courses"];
 
-  for (let i = 0; i < 10; i++) {
+  for (let i = 0; i < 100; i++) {
     data.mealPlan.push({
       id: i,
       recipesId: random.number({ min: 0, max: LIMIT }),
-      weekday: random.number({ min: 0, max: 6 }),
+      weekday: random.number({ min: 0, max: 7 }),
     });
   }
 
