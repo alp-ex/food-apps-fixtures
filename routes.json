@@ -1,0 +1,4 @@
+{
+  "/plannedRecipe": "/plannedRecipe?_expand=recipe",
+  "/recipe": "/recipe?_limit=100&_sort=name"
+}

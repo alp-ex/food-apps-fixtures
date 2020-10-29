@@ -7,4 +7,4 @@ This db is used to mock a back end for [helpfood-ui](https://github.com/alp-ex/h
 run `docker-compose up`
 then visit [localhost:3001](http://0.0.0.0:3001)
 
-_so [json-server](https://github.com/typicode/json-server)_
+_shoot-out [json-server](https://github.com/typicode/json-server)_
