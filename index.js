@@ -3,29 +3,29 @@ const { random } = require("faker");
 const LIMIT = 1000;
 
 module.exports = () => {
-  const data = { plannedRecipe: [], recipe: [], category: [] };
+  const data = { mealPlan: [], recipes: [], categories: [] };
   const categories = ["desserts", "starters", "main courses"];
 
-  for (let i = 0; i < LIMIT; i++) {
-    data.plannedRecipe.push({
+  for (let i = 0; i < 10; i++) {
+    data.mealPlan.push({
       id: i,
-      recipeId: random.number({ max: LIMIT }),
+      recipesId: random.number({ min: 0, max: LIMIT }),
       weekday: random.number({ max: 6 }),
     });
   }
 
-  categories.forEach((category) => {
-    data.category.push({
+  categories.forEach((category, i) => {
+    data.categories.push({
       id: i,
       name: category,
     });
   });
 
   for (let i = 0; i < LIMIT; i++) {
-    data.recipe.push({
+    data.recipes.push({
       id: i,
       name: random.word(),
-      category: random.arrayElement(categories),
+      categories: random.arrayElement(categories),
       ingredients: random
         .words(random.number({ min: 2, max: 10 }))
         // https://github.com/Marak/faker.js/blob/master/lib/random.js

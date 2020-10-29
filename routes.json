@@ -1,4 +1,5 @@
 {
-  "/plannedRecipe": "/plannedRecipe?_expand=recipe",
-  "/recipe": "/recipe?_limit=100&_sort=name"
+  "/meal-plan": "/mealPlan?_expand=recipes",
+  "/mealPlan": "/mealPlan?_expand=recipes",
+  "/recipe": "/recipes?_sort=name"
 }
