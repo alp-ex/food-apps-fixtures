@@ -1,6 +1,4 @@
 {
   "/meal-plan": "/mealPlan?_expand=recipes",
-  "/meal-plan/:weekday": "/mealPlan?_expand=recipes&weekday=:weekday",
-  "/mealPlan/:weekday": "/mealPlan?_expand=recipes&weekday=:weekday",
   "/recipe": "/recipes?_sort=name"
 }
