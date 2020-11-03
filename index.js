@@ -30,7 +30,7 @@ module.exports = () => {
     data.recipes.push({
       id: i,
       name: random.word(),
-      categories: random.arrayElement(categories),
+      categories: random.arrayElement(categories).name,
       ingredients: random
         .words(random.number({ min: 2, max: 10 }))
         // https://github.com/Marak/faker.js/blob/master/lib/random.js
