@@ -4,7 +4,11 @@ const LIMIT = 1000;
 
 module.exports = () => {
   const data = { mealPlan: [], recipes: [], categories: [] };
-  const categories = ["desserts", "starters", "main courses"];
+  const categories = [
+    { name: "desserts", priorityLevel: 2 },
+    { name: "starters", priorityLevel: 0 },
+    { name: "main courses", priorityLevel: 1 },
+  ];
 
   for (let i = 0; i < 100; i++) {
     data.mealPlan.push({
@@ -14,10 +18,11 @@ module.exports = () => {
     });
   }
 
-  categories.forEach((category, i) => {
+  categories.forEach(({ name, priorityLevel }, id) => {
     data.categories.push({
-      id: i,
-      name: category,
+      id,
+      name,
+      priorityLevel,
     });
   });
 
