@@ -1,7 +1,0 @@
-{
-  "/meal-plan": "/mealPlan?_expand=recipes",
-  "/meal-plan/:id": "/mealPlan/:id?_expand=recipes",
-  "/meal-plan?weekday=:weekday": "/mealPlan?_expand=recipes&weekday=:weekday",
-  "/recipes": "/recipes?_sort=name",
-  "/categories": "/categories?_sort=priorityLevel"
-}

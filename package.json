@@ -1,0 +1,27 @@
+{
+  "name": "food-apps-fixtures",
+  "version": "0.2.0",
+  "description": "This db is used to mock a back end for [helpfood-ui](https://github.com/alp-ex/helpfood-ui)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alp-ex/json-fixtures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alp-ex/json-fixtures/issues"
+  },
+  "homepage": "https://github.com/alp-ex/json-fixtures#readme",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "faker": "^5.1.0",
+    "json-server": "^0.16.2",
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^8.3.1"
+  }
+}
