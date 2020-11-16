@@ -9,7 +9,7 @@ const server = jsonServer.create();
 const router = jsonServer.router(data);
 const middlewares = jsonServer.defaults();
 
-const SECRET_KEY = "123456789"; // nope
+const SECRET_KEY = process.env.JWT_SECRET;
 const expiresIn = "1h";
 
 function createToken(payload) {
